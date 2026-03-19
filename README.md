@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=9F9F9F&width=600&lines=Frontend+Engineer+%7C+React+%7C+Next.js+%7C+TypeScript;Building+fast%2C+responsive+and+scalable+UIs;Performance+focused+%7C+UX+driven+%7C+Production+ready" />
 </p>
 
-📩 Email 👉 ✉️ **your-email-here**
+Email Me 👉 ✉️ **priyamsharma2k@gmail.com** for collaboration, projects, or opportunities.
 
 ---
 
